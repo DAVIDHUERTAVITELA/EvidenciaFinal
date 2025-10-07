@@ -1,0 +1,4 @@
+# Ignorar todos los archivos dentro de /db/
+*
+# Pero permitir este propio .gitignore
+!.gitignore
